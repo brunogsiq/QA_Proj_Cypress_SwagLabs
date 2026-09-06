@@ -49,3 +49,5 @@ Além disso, o SauceDemo oferece suporte para integração com várias ferrament
 
 ```
 ```
+
+Mensagem teste - Deverá ser apagada após documentação completa

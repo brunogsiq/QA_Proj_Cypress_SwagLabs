@@ -1,7 +1,6 @@
 /// <reference types="cypress" /> 
 
 import 'cypress-wait-until'
-import loc from "./locators"
 
 //Validar url do projeto.
 Cypress.Commands.add('validaUrlTelaProducts', () =>

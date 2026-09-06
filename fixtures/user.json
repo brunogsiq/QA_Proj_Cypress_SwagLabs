@@ -1,0 +1,10 @@
+{   
+    "user": {
+        "usersStandard": "standard_user",
+        "usersLocked": "locked_out_user",
+        "usersProblem": "problem_user",
+        "usersPerformance": "performance_glitch_user",
+        "usersError": "error_user",
+        "usersVisual": "visual_user"
+    }
+}

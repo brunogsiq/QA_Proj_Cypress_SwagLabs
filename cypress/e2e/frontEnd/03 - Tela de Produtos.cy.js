@@ -1,6 +1,6 @@
 /// <reference types="cypress" /> 
 
-import loc from "../../support/locators"
+import loc from "../support/locators"
 
 var Context = 2
 var Describe = 2
